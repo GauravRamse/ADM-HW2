@@ -1,11 +1,11 @@
 # ADM-HW2
 
-![alt text](https://camo.githubusercontent.com/52d83042699755a6287b8aa0e5ada1567fdc4bb890b7dcdf27d4eaaa664546a7/68747470733a2f2f7777772e6e65787472652e69742f77702d636f6e74656e742f75706c6f6164732f323032302f30392f452d636f6d6d657263652d7765622d646576656c6f706d656e742e706e67)
-
 ## Teammates
 * Gaurav Ramse
 * Mirko Lozzi 
 * Bang Tran Luong
+
+![alt text](https://camo.githubusercontent.com/52d83042699755a6287b8aa0e5ada1567fdc4bb890b7dcdf27d4eaaa664546a7/68747470733a2f2f7777772e6e65787472652e69742f77702d636f6e74656e742f75706c6f6164732f323032302f30392f452d636f6d6d657263652d7765622d646576656c6f706d656e742e706e67)
 
 ## Data 
 We have performed data analysis on data Oct-2019 and Nov-2019, downloaded from the https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv
